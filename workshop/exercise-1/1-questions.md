@@ -20,6 +20,9 @@ c) [false] `<ul></ul><img/><ol><li>one</li></ol>`
 
 _Feel free to use the powers of Google here, but please provide link(s) to your source(s)_
 
+A screen reader is a piece of software that runs with an operating system that uses text-to-speech technology to voice what would normally be displayed on the screen.
+(canasstech.com canadian assistive technology)
+
 ## Q3 - For each of the following cases, which tags will be needed?
 
 a) You want to create a webpage with the photos from your latest vacation
