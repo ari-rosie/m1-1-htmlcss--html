@@ -77,11 +77,15 @@ Table data
 
 ## Q7 - Usually, `td` elements are children of what kind of elements?
 
-Tr
+tr
 
 ## Q8 - What is the difference between td and th?
 
+th is the header of a column and td a regular table cell.
+
 ## Q9 - Which tag makes the text appear bigger: h1 or h3?
+
+h1
 
 ## Q10 - In which situation can you use self closing tags?
 
