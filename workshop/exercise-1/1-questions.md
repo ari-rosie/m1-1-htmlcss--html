@@ -93,6 +93,13 @@ When the element does not have any children.
 
 ## Q11 - What is autofilling and why is it important?
 
+It allows to fill out a form with common information. It is important because it can use sensitive information that is only remembered in one's computer and works only if the function is selected by the user.
+
 ## Q12 - Which attributes are always present in an img element?
 
+src (source) 
+alt (descriptive of the image)
+
 ## Q13 - Which attribute is always present for an anchor tag?
+
+href (link)
