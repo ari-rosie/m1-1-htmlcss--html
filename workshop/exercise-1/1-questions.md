@@ -27,15 +27,15 @@ A screen reader is a piece of software that runs with an operating system that u
 
 a) You want to create a webpage with the photos from your latest vacation
 
-<img/>
+img
 
 b) You want to create a website that lists all the art gallery websites in your city and links to their website.
 
-<ul><li><a></a></li></ul>
+ul li a
 
 c) You want to sell designer hats. You need to receive orders from the user.
 
-<form></form>
+form
 
 ## Q4 - Can a `button` be a child of a `button`? Explain your reasoning
 
@@ -43,7 +43,7 @@ No, because that descendant button would not be clickable.
 
 ## Q5 - What is the most generic tag you can use?
 
-<div></div>
+div
 
 ## Q6 - What do the following achronyms stand for?
 
