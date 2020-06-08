@@ -89,6 +89,8 @@ h1
 
 ## Q10 - In which situation can you use self closing tags?
 
+When the element does not have any children.
+
 ## Q11 - What is autofilling and why is it important?
 
 ## Q12 - Which attributes are always present in an img element?
