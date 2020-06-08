@@ -49,19 +49,35 @@ No, because that descendant button would not be clickable.
 
 a) `a`
 
+Anchor
+
 b) `ol`
+
+Ordered list
 
 c) `ul`
 
+Unordered list
+
 d) `li`
+
+List item
 
 e) `tr`
 
+Table row
+
 f) `th`
+
+Table header
 
 g) `td`
 
+Table data
+
 ## Q7 - Usually, `td` elements are children of what kind of elements?
+
+Tr
 
 ## Q8 - What is the difference between td and th?
 
